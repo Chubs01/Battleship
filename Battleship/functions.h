@@ -55,5 +55,5 @@ bool fire(ship shiparray[]);	// asks the user to input the coordinates of the ne
 								// shot
 								// note that check() is also used in the battle
 
-#endif functions_h
+#endif //functions_h
 
